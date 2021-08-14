@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'RobotoMono';
+  src: url('./fonts/RobotoMono-Thin.ttf');      
+
+} 
+  @font-face {
+  font-family: 'elvish'; 
+  src: url('./fonts/elvish_ring_nfi.ttf');
+}
+* {
+  font-family: 'RobotoMono', monospace;
+  
+}
+
+body {
+  margin: 0px;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  color: white;
+  background: linear-gradient(to right, rgb(81, 81, 82), rgb(171, 165, 182));
+}
+
+
+  footer{
+    position: fixed;
+    bottom: 2%;
+    left: 0%;
+    font-size: 15px;
+  }
+    .devName{
+      font-family: 'elvish', monospace; 
+      font-weight: thin;
+    }
+    .heart{
+      animation: pulsing 3s linear infinite;
+      color: rgb(207, 7, 7);
+      display: inline-block;
+    }
+
+    @keyframes pulsing{
+      0%{
+        transform: scale(1);
+      }
+      25%{
+        transform: scale(1.25);
+      }
+      50%{
+        transform: scale(1.5);
+      }
+      75%{
+        transform: scale(1.25);
+      }
+      100%{
+        transform: scale(1);
+      }
+    }
