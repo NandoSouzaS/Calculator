@@ -7,10 +7,20 @@
 
 The project i named Calculator is, as the name says, a Calculator, with the visuals strongly inspirated by the MAC Sistem calculator.
 
+
 ## Tecnologies used.
 
 As my objective is to learn React as i Developed this Simple project, This is pretty much what i used,
 in association with the commom languages/tecnologies used in a front-end product, such as HTML5 a CSS3.
+
+
+## About the Objectives of the project
+
+As i said previously, my objective with this piece of art is to learn the basic principles of React,
+as well as the standard patterns of organization like organizing the components and the stylesheet of then in different folders.
+As the project was going on, i also learned the basic concepts of responsivity and animations, both using CSS features,
+and both aplyed at the Footer to make it fit natural at the visual of my application
+
 
 ### Visual Demonstrations
 
@@ -24,13 +34,6 @@ right bellow, there is some visual examples of my application:
 
 ![image](https://user-images.githubusercontent.com/87328452/129598357-70b7db64-5b3a-418d-b93d-65cedf50a084.png)
 
-
-## About the Objectives of the project
-
-As i said previously, my objective with this piece of art is to learn the basic principles of React,
-as well as the standard patterns of organization like organizing the components and the stylesheet of then in different folders.
-As the project was going on, i also learned the basic concepts of responsivity and animations, both using CSS features,
-and both aplyed at the Footer to make it fit natural at the visual of my application
 
 # Getting Started with Create React App
 
