@@ -27,8 +27,8 @@ body {
 
   footer{
     position: fixed;
-    bottom: 2%;
-    left: 0%;
+    bottom: 1%;
+    left: 1%;
     font-size: 15px;
   }
     .devName{
@@ -56,5 +56,12 @@ body {
       }
       100%{
         transform: scale(1);
+      }
+    }
+
+    @media (max-width:546px) {
+      footer{
+      bottom: 3%;
+      left: 3%;
       }
     }
