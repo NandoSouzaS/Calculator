@@ -25,7 +25,7 @@ right bellow, there is some visual examples of my application:
 ![image](https://user-images.githubusercontent.com/87328452/129598357-70b7db64-5b3a-418d-b93d-65cedf50a084.png)
 
 
-# About the Objectives of the project
+## About the Objectives of the project
 
 As i said previously, my objective with this piece of art is to learn the basic principles of React,
 as well as the standard patterns of organization like organizing the components and the stylesheet of then in different folders.
