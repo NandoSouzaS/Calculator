@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# Calculator.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/NandoSouzaS/LICENCE/blob/main/LICENSE)
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+## Description.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The project I named Calculator is, as the name says, a Calculator, with the visuals strongly inspired by the MAC Sistem calculator.
+The idea came from the curse 'Curso Web Moderno', where I learned the basic React knowledge to did it. Then, I fixed some bugs that the original code had
+and stylized it to be more likely to look at.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## About the Objectives of the project
 
-### `npm run build`
+As I said previously, my objective with this piece of art is to learn the basic principles of React,
+as well as the standard organization patterns like organizing the components and the stylesheet of then in different folders.
+As the project was going on, I also learned the basic concepts of responsivity and animations, both using CSS features,
+and both applied at the Footer to make it fit natural at the visual of my application
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Visual Demonstrations
 
-### `npm run eject`
+Right below, there are some visual examples of my application:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![browserfocused](https://user-images.githubusercontent.com/87328452/129593232-750d7996-6ea3-4382-bd77-74904acbd306.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![browser100%](https://user-images.githubusercontent.com/87328452/129595069-b2b9e2de-7ed2-49d8-968b-9b1598b90770.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![iphonex](https://user-images.githubusercontent.com/87328452/129598357-70b7db64-5b3a-418d-b93d-65cedf50a084.png)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Technologies used.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+As my objective is to learn React as I developed this simple project, this is pretty much what I used,
+in association with the common languages/technologies used in a front-end product, such as HTML5 and CSS3.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# How to run this application
 
-### Analyzing the Bundle Size
+By first, you'll need to have Node.js installed on your PC (i imagine everyone reading this already know the basics, so I'll skip some steps, ok?).
+Then you have to use the command right below to boot the app:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## `npm start`
 
-### Making a Progressive Web App
+This command line will run the application in your browser at [http://localhost:3000](http://localhost:3000) so you can enjoy it.
+Any edits you do, the page will instantly reload so you can see it in real-time.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+There are others commands what come from React default settings, so you can use them to do whatever you want.
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# About the dev
 
-### Deployment
+I'm a 19 yo Front-end dev, and this is my  LinkedIn. Take a time and enjoy your time testing, experiencing, and even making changes in my other repositories and,
+if you enjoyed it, this is my LinkedIn so you can make the right decision: [https://www.linkedin.com/in/jos%C3%A9-fernando-de-andrade-souza-059323215/](https://www.linkedin.com/in/jos%C3%A9-fernando-de-andrade-souza-059323215/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+See ya o/
