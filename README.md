@@ -52,7 +52,7 @@ There are others commands what come from React default settings, so you can use 
 
 # About the dev
 
-I'm a 19 yo Front-end dev, and this is my  LinkedIn. Take a time and enjoy your time testing, experiencing, and even making changes in my other repositories and,
+I'm a 19 year old Front-end dev passionated about Javascript and its ecosistem. Take a time and enjoy your time testing, experiencing, and even making changes in my other repositories and,
 if you enjoyed it, this is my LinkedIn so you can make the right decision: [https://www.linkedin.com/in/jos%C3%A9-fernando-de-andrade-souza-059323215/](https://www.linkedin.com/in/jos%C3%A9-fernando-de-andrade-souza-059323215/)
 
 
