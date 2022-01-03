@@ -1,7 +1,5 @@
 # Calculator.
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/NandoSouzaS/LICENCE/blob/main/LICENSE)
-
 
 
 ## Description.
